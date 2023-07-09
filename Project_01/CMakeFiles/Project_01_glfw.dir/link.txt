@@ -1,0 +1,3 @@
+E:\Compu_Gradica1\Cmake\cmake-3.22.1-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\Project_01_glfw.dir/objects.a
+E:\Compu_Gradica1\MinGW\mingw122_64\bin\ar.exe qc CMakeFiles\Project_01_glfw.dir/objects.a @CMakeFiles\Project_01_glfw.dir\objects1.rsp
+E:\Compu_Gradica1\MinGW\mingw122_64\bin\g++.exe -O3 -DNDEBUG -mwindows -Wl,--whole-archive CMakeFiles\Project_01_glfw.dir/objects.a -Wl,--no-whole-archive -o Project_01_glfw.exe -Wl,--out-implib,libProject_01_glfw.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Project_01_glfw.dir\linklibs.rsp
