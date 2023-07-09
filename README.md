@@ -1,1 +1,1 @@
-# Computacion-Grafica-Final-Animcion
+# Computacion-Grafica-Final-Animacion
